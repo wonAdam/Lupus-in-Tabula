@@ -30,3 +30,6 @@ Dev Period : 2020.01.27 ~ 2020.02.08
 
 Programmer (1) : Won Dong Hyun(wonAdam)
 
+
+Youtube: Play Video https://www.youtube.com/watch?v=CWTL_fICubk
+
