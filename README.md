@@ -12,6 +12,11 @@ I have worked on this project in Febuary, 2020.
 It's based on 2D platform and Photon-based Network, Card, Board, Origin : Lupus in Tabula(board game) / Android game. 
 
 
+> Download Link
+
+Android: https://drive.google.com/file/d/1lmRzRPZLX-1PErEE-xDbbrDKAIHuz4Ex/view?usp=sharing
+
+PC: https://drive.google.com/file/d/1h1EMntPqI0ZVf2VR3zdl82NZeerCGF2A/view?usp=sharing
 
 
 > 개발기간 : 2020.01.27 ~ 2020.02.08 
